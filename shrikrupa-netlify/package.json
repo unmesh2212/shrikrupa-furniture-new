@@ -1,0 +1,1 @@
+{"name":"shrikrupa-furniture-works-netlify","version":"3.0.0","private":true,"type":"module","scripts":{"dev":"netlify dev","build":"echo Static site ready"},"dependencies":{"@supabase/supabase-js":"^2.57.0","@netlify/functions":"^3.1.10"},"devDependencies":{"netlify-cli":"^23.5.0"}}
